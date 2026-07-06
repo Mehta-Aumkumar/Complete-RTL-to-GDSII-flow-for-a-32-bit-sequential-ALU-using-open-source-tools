@@ -1,0 +1,2 @@
+# Complete-RTL-to-GDSII-flow-for-a-32-bit-sequential-ALU-using-open-source-tools
+End-to-end RTL-to-GDSII flow for a 32-bit ALU using open-source tools: Verilog design, Yosys synthesis, OpenROAD place-and-route with CTS, and KLayout for GDSII generation and DRC, all on the SkyWater Sky130 PDK. Debugged real placement, routing, and timing issues to achieve a clean, DRC-violation-free, timing-closed layout.
